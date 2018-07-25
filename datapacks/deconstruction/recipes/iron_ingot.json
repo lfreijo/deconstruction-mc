@@ -1,0 +1,56 @@
+{
+    "type": "smelting",
+    "ingredient": [
+        {
+            "item": "minecraft:iron_helmet"
+        },
+        {
+            "item": "minecraft:iron_chestplate"
+        },
+        {
+            "item": "minecraft:iron_leggings"
+        },
+        {
+            "item": "minecraft:iron_boots"
+        },
+        {
+            "item": "minecraft:iron_horse_armor"
+        },
+        {
+            "item": "minecraft:hopper"
+        },
+        {
+            "item": "minecraft:cauldron"
+        },
+        {
+            "item": "minecraft:iron_bars"
+        },
+        {
+            "item": "minecraft:bucket"
+        },
+        {
+            "item": "minecraft:minecart"
+        },
+        {
+            "item": "minecraft:compass"
+        },
+        {
+            "item": "minecraft:activator_rail"
+        },
+        {
+            "item": "minecraft:detector_rail"
+        },
+        {
+            "item": "minecraft:iron_trapdoor"
+        },
+        {
+            "item": "minecraft:iron_door"
+        },
+        {
+            "item": "minecraft:rail"
+        }
+    ],
+    "result": "minecraft:iron_ingot",
+    "experience": 0.1,
+    "cookingtime": 250
+}
