@@ -2,7 +2,7 @@
     "type": "smelting",
     "ingredient": [
         {
-            "item": "minecraft:golden_ingot"
+            "item": "minecraft:gold_ingot"
         },
         {
             "item": "minecraft:light_weighted_pressure_plate"
